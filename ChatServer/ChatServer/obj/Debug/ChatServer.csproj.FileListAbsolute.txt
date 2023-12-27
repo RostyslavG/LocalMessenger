@@ -1,0 +1,34 @@
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\App.g.cs
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.lref
+C:\Users\Net\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Net\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Net\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Net\Desktop\ChatServer\ChatServer\bin\Debug\ChatData.dll
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Net\Desktop\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\bin\Debug\ChatData.dll
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\MainWindow.g.cs
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\App.g.cs
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.cache
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer_MarkupCompile.lref
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\MainWindow.baml
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer.g.resources
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Навчання\Семестр 4\Домашки\Network Prog\ДЗ №9\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
