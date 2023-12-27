@@ -1,0 +1,6 @@
+C:\Users\Net\Desktop\ChatData\ChatData\bin\Debug\ChatData.dll
+C:\Users\Net\Desktop\ChatData\ChatData\bin\Debug\ChatData.pdb
+C:\Users\Net\Desktop\ChatData\ChatData\obj\Debug\ChatData.csproj.AssemblyReference.cache
+C:\Users\Net\Desktop\ChatData\ChatData\obj\Debug\ChatData.csproj.CoreCompileInputs.cache
+C:\Users\Net\Desktop\ChatData\ChatData\obj\Debug\ChatData.dll
+C:\Users\Net\Desktop\ChatData\ChatData\obj\Debug\ChatData.pdb
