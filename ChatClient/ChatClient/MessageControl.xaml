@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="ChatClient.MessageControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ChatClient"
+             mc:Ignorable="d" d:DesignWidth="800" Height="170">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush x:Name="fon" ImageSource="/Images/m1.png"></ImageBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="0.3*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Name="ustbCreatedAT" Grid.Column="1" Margin="-5,10,110,-7" FontSize="14"></Label>
+        <Label Name="ustbNick" Grid.Column="0" Margin="90,7,0,-7"></Label>
+        <TextBlock x:Name="ustbMessage" Grid.ColumnSpan="2" VerticalAlignment="Top" HorizontalAlignment="Left" Grid.Row="1" TextWrapping="Wrap" Margin="20,20,0,2"></TextBlock>
+        <Viewbox Stretch="Uniform" Grid.Column="2" Grid.Row="1" Margin="0,3,0,9">
+            <Image Name="pictureBox1"></Image>
+        </Viewbox>
+        <Image Name="usbtLoad" Margin="10,0,10,15" Grid.Column="3" Grid.Row="1" Source="/Images/d.png" MouseLeftButtonUp="usbtLoad_MouseLeftButtonUp" Cursor="Hand"></Image>
+    </Grid>
+</UserControl>
